@@ -1,6 +1,6 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Hello World!'
+excerpt: 'Welcome to the blog. Pre-rendering pages using Static Generation with Next.JS'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-02-11T11:59:07.322Z'
 author:
@@ -10,6 +10,7 @@ ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
+<!--- Learn How to Pre-render Pages Using Static Generation with Next.js --->
 
 ## Hello World
 Hello World, I am pre-rendering my pages using static generation with next. Jas

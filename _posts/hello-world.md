@@ -13,7 +13,7 @@ ogImage:
 <!--- Learn How to Pre-render Pages Using Static Generation with Next.js --->
 
 ## Hello World
-Hello World, I am pre-rendering my pages using static generation with next. Jas
+Hello World, I am pre-rendering my pages using static generation with NextJS
 I am going to store all of my findings and learnings on this blog so that the world can benefit from what I’m learning, I hope you find this very interesting and fun. 
 I want to make this a fun and experience that you will enjoy. 
 

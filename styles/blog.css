@@ -13,3 +13,11 @@ list-style-type: square;
 ol {
 list-style-type: lower-alpha;
 }
+
+pre {
+    border: 1px solid #CCC; background-color: #eee; padding: 2px 10px;
+}
+
+code {
+    background-color: #eee;   
+}

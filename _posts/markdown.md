@@ -1,13 +1,13 @@
 ---
 title: 'What is Markdown?'
 excerpt: 'An explanation of Markdown.md files'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/markdown/cover.jpg'
 date: '2022-02-14T21:00:07.322Z'
 author:
   name: Ali Ismail
   picture: '/assets/blog/authors/ali.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/markdown/cover.jpg'
 ---
 What is Markdown?
 
@@ -59,3 +59,8 @@ Here is a preview of what this would look like:
 1. Ordered
 2. List
 3. Of Items
+
+
+
+Photo by <a href="https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gary Butterfield</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

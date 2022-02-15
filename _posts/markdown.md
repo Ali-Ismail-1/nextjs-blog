@@ -47,14 +47,6 @@ Which will produce something like this:
  - list
  - Of items
 
-+ Test
-+ With
-+ Plus Signs
-
-* Test
-* With
-* Astricks
-
 And ordered lists you guessed it, are made like this:
 ```
 1. Ordered
@@ -70,10 +62,10 @@ Here is a preview of what this would look like:
 
 And you can make urls by using the following syntax
 ```
-Click [here](https://www.USEYOURIMAGINATION.io){:target="_blank"}
+Click [text](url)
 ```
 which would result in:
-Click [here](https://www.USEYOURIMAGINATION.io){:target="_blank"}
+Click [text](https://www.USEYOURIMAGINATION.io)
 
-Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"}
+Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   

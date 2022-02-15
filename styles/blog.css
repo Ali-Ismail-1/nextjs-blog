@@ -1,0 +1,7 @@
+a {
+    color: rebeccapurple;
+}
+
+a :hover {
+    color: green;
+}

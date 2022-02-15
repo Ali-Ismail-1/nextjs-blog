@@ -43,9 +43,9 @@ You can create unordered lists simply by putting dashes before each line item li
 ```
 
 Which will produce something like this: 
-- Unordered
-- list
-- Of items
+ - Unordered
+ - list
+ - Of items
 
 And ordered lists you guessed it, are made like this:
 ```
@@ -56,11 +56,16 @@ And ordered lists you guessed it, are made like this:
 
 Here is a preview of what this would look like:
 
-1. Ordered
-2. List
-3. Of Items
+ 1. Ordered
+ 2. List
+ 3. Of Items
 
+And you can make urls by using the following syntax
+```
+Click [here](https://www.USEYOURIMAGINATION.io){:target="_blank"}
+```
+which would result in:
+Click [here](https://www.USEYOURIMAGINATION.io){:target="_blank"}
 
-
-Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"}
   

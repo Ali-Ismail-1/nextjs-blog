@@ -64,8 +64,7 @@ And you can make urls by using the following syntax
 ```
 Click [text](url)
 ```
-which would result in:
-Click [text](https://www.USEYOURIMAGINATION.io)
+which would allow you to make links like so:
 
-Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Cover Photo by [Gary Butterfield](https://unsplash.com/@garybpt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   

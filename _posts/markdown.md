@@ -47,6 +47,14 @@ Which will produce something like this:
  - list
  - Of items
 
++ Test
++ With
++ Plus Signs
+
+* Test
+* With
+* Astricks
+
 And ordered lists you guessed it, are made like this:
 ```
 1. Ordered

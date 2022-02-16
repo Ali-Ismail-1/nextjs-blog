@@ -17,7 +17,7 @@ This is achieved by creating encapsulated components and mounting them on the DO
 
 Here’s an example how you can do this with plain vanilla JavaScript.
 
-```
+```html
 <body>
   <div id="root"></div>
   <script type="text/javascript">
@@ -30,9 +30,12 @@ Here’s an example how you can do this with plain vanilla JavaScript.
 </body>
 ```
 
+
+
+
 And here is an example of how we would do it using the React Library. 
 
-```
+```JS
 <body>
   <div id="root"></div>
   <script src="https://unpkg.com/react@16.12.0/umd/react.development.js" />
@@ -47,3 +50,5 @@ And here is an example of how we would do it using the React Library.
   </script>
 </body>
 ```
+
+

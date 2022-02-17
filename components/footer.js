@@ -25,6 +25,19 @@ export default function Footer() {
             </a>
           </div>
         </div>
+        <div className="flex-col lg:flex-row">
+          <a
+            href="/about"
+            >
+              About
+            </a>
+            <a
+            href="/"
+            >
+              Home
+            </a>
+
+        </div>
       </Container>
     </footer>
   )

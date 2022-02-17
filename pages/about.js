@@ -3,13 +3,15 @@
 
 export default function About() {
     return (
-        // <Layout>
-        //     <Container>
+        <>
+        <Layout>
+            <Container>
             <div>
                 <h1>About this Blog</h1>
                 <p>This is the best blog ever</p>
             </div>
-        //     </Container>
-        // </Layout>
+            </Container>
+        </Layout>
+        </>
     );
 }

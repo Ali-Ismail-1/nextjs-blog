@@ -1,0 +1,27 @@
+a {
+    color: cornflowerblue;
+}
+
+a:hover {    
+    text-decoration: underline;
+}
+
+ul {
+list-style-type: square;
+}
+
+ol {
+list-style-type: lower-alpha;
+}
+
+ol, ul {
+    margin-left: 2em;
+}
+
+pre {
+    border: 1px solid #CCC; background-color: #eee; padding: 2px 10px;
+}
+
+code {
+    background-color: #eee;   
+}

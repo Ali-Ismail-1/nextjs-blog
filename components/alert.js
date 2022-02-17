@@ -7,7 +7,7 @@ export default function Alert({ preview }) {
     <div
       className={cn('border-b', {
         'bg-accent-7 border-accent-7 text-white': preview,
-        'bg-accent-1 border-accent-2': !preview,
+        'bg-accent-2 border-accent-2': !preview,
       })}
     >
       <Container>
@@ -27,7 +27,8 @@ export default function Alert({ preview }) {
             <>
               The source code for this blog is{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://github.com/Ali-Ismail-1/blog-starter`}
+                //href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
                 available on GitHub

@@ -3,9 +3,9 @@ import { EXAMPLE_PATH } from '../lib/constants'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
+    <footer className="bg-accent-2 border-t border-accent-2">
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
+        <div className="pt-28 pb-5 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Statically Generated with Next.js.
           </h3>
@@ -17,12 +17,26 @@ export default function Footer() {
               Read Documentation
             </a>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={`https://github.com/Ali-Ismail-1/blog-starter`}
+              //href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
               className="mx-3 font-bold hover:underline"
             >
               View on GitHub
             </a>
           </div>
+        </div>
+        <div className="flex-col lg:flex-row px-4 pb-4">
+       
+            <a
+              href="/"
+            >
+              Home
+            </a><br></br>
+            <a
+              href="/about"
+            >
+              About
+            </a> <br></br>
         </div>
       </Container>
     </footer>

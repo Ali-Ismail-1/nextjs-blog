@@ -50,7 +50,8 @@ And here is an example of how we would do it using the React Library.
 </body>
 ```
 
-Here is how you would use JSX Syntax
+Here is how you would use JSX, JavaScript XML, Syntax. JSX allows you to write Javascript elements so that they look similar to HTML. 
+
 ```html
 <body>
   <div id="root"></div>
@@ -65,7 +66,7 @@ Here is how you would use JSX Syntax
 </body>
 ```
 
-Interpolate Variable in JSX
+Interpolate Variable in JSX. Interpolation, or replacing variables with a literal strings, is done by using curly braces. `{ }` are used as a placeholders for template literals.
 
 ```html
 <body>
@@ -84,7 +85,7 @@ Interpolate Variable in JSX
 ```
 
 
-React Fragments 
+React Fragments allow you to return multiple elements. It's so commonly used that there's a shortcut of empty angle brackets `<> </>` which is equivalent to writing `<React.Fragment>`
 
 ```html
 const element = {
